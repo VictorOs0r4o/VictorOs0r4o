@@ -1,9 +1,6 @@
 
 ### Olá! eu sou o Victor Osorio 👋😃
-<div>
-<a href="https://www.instagram.com/_victorosorio/" target="_blank"><img src="(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white</a>
-  </div
-  
+<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-osorio-323a561a3/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sorriso234)
